@@ -1,29 +1,53 @@
-## Digital Mafia Solutions
+## **Digital Mafia Solutions**
 
-We build and audit digital systems for growing businesses.
+We help growing businesses regain clarity when their digital systems start slowing execution.
 
-Our work focuses on:
-- Identifying operational bottlenecks
-- Reducing unnecessary complexity
-- Designing systems that support execution, not chaos
+Our work focuses on identifying operational bottlenecks across websites, internal processes, and automation — then fixing only what actually matters.
+
+---
 
 ### How We Work
+
 We do not jump straight into building.
 
-Every engagement starts with a structured audit to:
-- Identify what actually needs to be built
-- Eliminate wasted effort
-- Align execution with business priorities
+Every engagement starts with a **paid Digital Operations Audit** designed to:
 
-Execution (websites, automation, integrations) follows only when clarity is established.
+* Identify where time, money, or leads are being lost
+* Eliminate unnecessary tools, features, and complexity
+* Define clear execution priorities tied to business outcomes
 
-### Technical Focus
-Our projects typically involve:
-- Web applications and business websites
-- Workflow automation
-- System integration and cleanup
-- Practical, maintainable architectures
+Only after clarity is established do we move into execution.
 
-This profile contains selected work, experiments, and internal tools used during delivery.
+---
 
-Clarity before execution.
+### What We Deliver
+
+* Digital Operations Audits
+* Client-ready business websites
+* Practical automation for internal workflows
+* Ongoing maintenance as a continuation of responsibility
+
+Execution is deliberate. Overbuilding is avoided.
+
+---
+
+### Our Operating Principle
+
+> Execution without clarity is expensive.
+
+We believe businesses scale faster when decisions are constrained, priorities are explicit, and systems are built to support execution — not experimentation.
+
+---
+
+### About This Organization
+
+This GitHub organization hosts **internal and client delivery code** used in production environments.
+
+Most repositories are private by design.
+
+We do not operate as an open-source company.
+
+---
+
+Clarity first.
+Execution second.
