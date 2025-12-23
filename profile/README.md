@@ -4,8 +4,6 @@ We help growing businesses regain clarity when their digital systems start slowi
 
 Our work focuses on identifying operational bottlenecks across websites, internal processes, and automation — then fixing only what actually matters.
 
----
-
 ### How We Work
 
 We do not jump straight into building.
@@ -18,8 +16,6 @@ Every engagement starts with a **paid Digital Operations Audit** designed to:
 
 Only after clarity is established do we move into execution.
 
----
-
 ### What We Deliver
 
 * Digital Operations Audits
@@ -29,15 +25,11 @@ Only after clarity is established do we move into execution.
 
 Execution is deliberate. Overbuilding is avoided.
 
----
-
 ### Our Operating Principle
 
 > Execution without clarity is expensive.
 
 We believe businesses scale faster when decisions are constrained, priorities are explicit, and systems are built to support execution — not experimentation.
-
----
 
 ### About This Organization
 
@@ -46,8 +38,6 @@ This GitHub organization hosts **internal and client delivery code** used in pro
 Most repositories are private by design.
 
 We do not operate as an open-source company.
-
----
 
 Clarity first.
 Execution second.
